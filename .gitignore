@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+coverage/
+test-results/
+playwright-report/
+*.tsbuildinfo
+next-env.d.ts
+reference-model.json
+*.log
+.env*
+!.env.example
+.DS_Store
+Thumbs.db
